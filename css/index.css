@@ -1,7 +1,21 @@
+@charset "utf-8";
 .aa{
 	margin-left: 50px;
+	margin-top: 50px;
 }
 
 .ddd{
 	margin-left: 50px;
+}
+.logo{
+	padding: 0;
+}
+#myCarousel{
+	margin: 50px 0 0 0;
+}
+#navbar-collapse{
+	margin-top:0;
+}
+.carousel-inner img{
+	margin: 0 auto;
 }
